@@ -1,5 +1,5 @@
 
-# Mohammad Esfandiari Bayat
+# Mohammad Esfandyari 
 
 ### Master of Science Student at Sharif University of Technology
 **Industrial Engineering | Optimization Methods | Data Analytics**
